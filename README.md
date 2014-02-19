@@ -1,4 +1,4 @@
 cmueventmanager
 ===============
 
-CMU Mobile Event Manager
+CMU Mobile Event Manager.
